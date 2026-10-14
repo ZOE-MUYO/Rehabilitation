@@ -7,7 +7,7 @@
 - [观看 VR 演示视频（Google Drive）](https://drive.google.com/file/d/1d_tEYn_Wber8fK6hzD0o1bd1k-9R_X6b/view)
 - [查看研究海报（PDF）](https://drive.google.com/file/d/1RC5-_K436RpYnbKnjcjFtELZ6ttTq1nW/view)
 
-视频和海报由项目作者提供。若链接提示需要权限，请联系作者获取访问权限。
+视频和海报由项目作者提供，可通过以上链接直接查看。
 
 ## 系统流程
 
